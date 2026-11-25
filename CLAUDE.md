@@ -1,6 +1,6 @@
 # Vivante Life
 
-vivante-life.eu is the Russian-language landing site for Vivante's transformational trips. The live page is Vivante Maldives (25 November 2026, 8 days), aimed at entrepreneurs and executives. Site copy is in Russian; keep new copy in Russian unless told otherwise.
+vivante-life.eu is the Russian-language landing site for Vivante's transformational trips. The live page is Vivante Maldives (24 February – 3 March 2027, 8 days), aimed at entrepreneurs and executives. Site copy is in Russian; keep new copy in Russian unless told otherwise.
 
 ## Layout
 
